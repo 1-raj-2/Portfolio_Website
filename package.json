@@ -1,0 +1,22 @@
+{
+  "name": "portfolio_website",
+  "version": "1.0.0",
+  "description": "Responsive Portfolio Website",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1-raj-2/Portfolio_Website.git"
+  },
+  "author": "Raj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1-raj-2/Portfolio_Website/issues"
+  },
+  "homepage": "https://github.com/1-raj-2/Portfolio_Website#readme",
+  "dependencies": {
+    "node-sass": "^6.0.0"
+  }
+}
